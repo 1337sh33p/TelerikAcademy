@@ -1,32 +1,32 @@
 # TelerikAcademy
 ## CSharp Fundamentals
 1 Introduction to programming
-__* Hello World
-..* Print Numbers
-..* Square Root
-..* Print Sequence
-..* Age
-..* Long Sequence
+* Hello World
+* Print Numbers
+* Square Root
+* Print Sequence
+* Age
+* Long Sequence
 2 Data types and variables
-..* Quotes in Strings
-..* Comparing Floats
-..* Print the ASCII Table
+* Quotes in Strings
+* Comparing Floats
+* Print the ASCII Table
 3 Operators and Expressions
-..* Odd or Even
-..* Moon Gravity
-..* Divide by 7 and 5
-..* Rectangles
-..* Third Digit
-..* Four Digits
-..* Point in a Circle
-..* Prime Check
-..* Trapezoids
-..* Point, Circle, Rectangle
-..* 3rd Bit
-..* N-th Bit
-..* Modify Bit
-..* Bit Exchange
-..* Bit Swap
+* Odd or Even
+* Moon Gravity
+* Divide by 7 and 5
+* Rectangles
+* Third Digit
+* Four Digits
+* Point in a Circle
+* Prime Check
+* Trapezoids
+* Point, Circle, Rectangle
+* 3rd Bit
+* N-th Bit
+* Modify Bit
+* Bit Exchange
+* Bit Swap
 4 Console Input and Output
 ..* Sum of 3 numbers
 ..* Company Info
