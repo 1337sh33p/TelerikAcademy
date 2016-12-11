@@ -1,5 +1,5 @@
 #Telerik Academy
-## CSharp Fundamentals | HTML
+**CSharp Fundamentals** | **HTML**
 ----------------------- | --------------------
 	1. Introduction to programming |
 	2. Data types and variables |
@@ -8,7 +8,7 @@
 	5. Conditional Statements |
 	6. Loops |
 	7. Arrays |
-## CSharp Advanced |
+**CSharp Advanced**|
 ------------------ | -------------------------
 	1. Multidimensional Arrays |
 	2. Methods |
