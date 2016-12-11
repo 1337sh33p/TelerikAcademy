@@ -1,5 +1,6 @@
 #Telerik Academy
 ## CSharp Fundamentals | HTML
+-----------------------|--------------------
 	1. Introduction to programming|
 	2. Data types and variables|
 	3. Operators and Expressions|
@@ -8,6 +9,7 @@
 	6. Loops|
 	7. Arrays|
 ## CSharp Advanced|
+------------------|-------------------------
 	1. Multidimensional Arrays|
 	2. Methods|
 	3. Numeral Systems|
