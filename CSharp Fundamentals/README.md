@@ -1,5 +1,4 @@
-# TelerikAcademy
-## CSharp Fundamentals
+# CSharp Fundamentals
 1. Introduction to programming
 	* Hello World
 	* Print Numbers
