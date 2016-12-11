@@ -1,7 +1,7 @@
 #Telerik Academy
 **CSharp Fundamentals** | **HTML**
 ----------------------- | --------------------
-	[Introduction to programming](..tree/master/CSharp Fundamentals/01. Introduction to programming) | Web Basics
+	[Introduction to programming](../CSharp Fundamentals/01. Introduction to programming) | Web Basics
 	Data types and variables | HTML Basics
 	Operators and Expressions | HTML Tables
 	Console Input and Output | HTML Forms
