@@ -1,7 +1,7 @@
 # TelerikAcademy
 ## CSharp Fundamentals
 1 Introduction to programming
-..* Hello World
+--* Hello World
 ..* Print Numbers
 ..* Square Root
 ..* Print Sequence
