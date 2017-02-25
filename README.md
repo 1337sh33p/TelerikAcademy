@@ -1,5 +1,5 @@
 #Telerik Academy
-##CSharp Fundamentals (https://github.com/1337sh33p/TelerikAcademy/tree/master/CSharp%20Fundamentals)
+##[CSharp Fundamentals] (https://github.com/1337sh33p/TelerikAcademy/tree/master/CSharp%20Fundamentals)
 ##CSharp Advanced
 
 - [x] Add CSharp Fundamentals info
