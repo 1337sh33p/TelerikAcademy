@@ -1,11 +1,11 @@
 # CSharp Fundamentals
 1. Introduction to programming
-	[x] * Hello World
-	[x] * Print Numbers
-	[x] * Square Root
-	[x] * Print Sequence
-	[x] * Age
-	[x] * Long Sequence
+-	[x] * Hello World
+-	[x] * Print Numbers
+-	[x] * Square Root
+-	[x] * Print Sequence
+-	[x] * Age
+-	[x] * Long Sequence
 2. Data types and variables
 	[x] * Quotes in Strings
 	[x] * Comparing Floats
