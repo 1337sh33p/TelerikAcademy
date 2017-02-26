@@ -1,52 +1,52 @@
 # CSharp Fundamentals
 1. Introduction to programming
--	[x] * Hello World
--	[x] * Print Numbers
--	[x] * Square Root
--	[x] * Print Sequence
--	[x] * Age
--	[x] * Long Sequence
+-	[x] Hello World
+-	[x] Print Numbers
+-	[x] Square Root
+-	[x] Print Sequence
+-	[x] Age
+-	[x] Long Sequence
 2. Data types and variables
-	[x] * Quotes in Strings
-	[x] * Comparing Floats
-	[x] * Print the ASCII Table
+-	[x] Quotes in Strings
+-	[x] Comparing Floats
+-	[x] Print the ASCII Table
 3. Operators and Expressions
-	* Odd or Even
-	* Moon Gravity
-	* Divide by 7 and 5
+-	[x] Odd or Even
+-	[x] Moon Gravity
+-	[x] Divide by 7 and 5
 	* Rectangles
-	* Third Digit
+-	[x] Third Digit
 	* Four Digits
-	* Point in a Circle
-	* Prime Check
-	* Trapezoids
-	* Point, Circle, Rectangle
-	* 3rd Bit
-	* N-th Bit
+-	[x] Point in a Circle
+-	[x] Prime Check
+-	[x] Trapezoids
+-	[x] Point, Circle, Rectangle
+-	[x] 3rd Bit
+-	[x] N-th Bit
 	* Modify Bit
-	* Bit Exchange
+-	[x] Bit Exchange
 	* Bit Swap
 4. Console Input and Output
-	* Sum of 3 numbers
-	* Company Info
-	* Circle
-	* Numbers Comparer
-	* Quadratic Equation
-	* Sum of 5 numbers
+-	[x] Sum of 3 numbers
+-	[x] Company Info
+-	[x] Circle
+-	[x] Numbers Comparer
+-	[x] Quadratic Equation
+-	[x] Sum of 5 numbers
 	* Numbers from 1 to N
-	* Sum of N numbers
-	* Fibonacci Numbers
-	* Interval
+-	[x] Sum of N numbers
+-	[x] Fibonacci Numbers
+-	[x] Interval
 5. Conditional Statements
-	* Exchange If Greater
-	* Bonus Score
-	* Play Card
-	* Multiplication Sign
-	* Biggest of 3
-	* Biggest of 5
-	* Sort 3 numbers
-	* Digit as Word
-	* Int, Double and String
+-	[x] Exchange If Greater
+-	[x] Bonus Score
+-	[x] Play Card
+-	[x] Multiplication Sign
+-	[x] Biggest of 3
+-	[x] Biggest of 5
+-	[x] Sort 3 numbers
+-	[x] Digit as Word
+-	[x] Int, Double and String
 6. Loops
 7. TODO
 	* Finish the list
