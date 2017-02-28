@@ -7,13 +7,11 @@
 - [x] Print Sequence
 - [x] Age
 - [x] Long Sequence
-----
 ## Data types and variables
 ----
 - [x] Quotes in Strings
 - [x] Comparing Floats
 - [x] Print the ASCII Table
-----
 ## Operators and Expressions
 ----
 - [x] Odd or Even
@@ -31,7 +29,6 @@
 * Modify Bit
 - [x] Bit Exchange
 * Bit Swap
-----
 ## Console Input and Output
 ----
 - [x] Sum of 3 numbers
@@ -44,7 +41,6 @@
 - [x] Sum of N numbers
 - [x] Fibonacci Numbers
 - [x] Interval
-----
 ## Conditional Statements
 ----
 - [x] Exchange If Greater
@@ -56,7 +52,6 @@
 - [x] Sort 3 numbers
 - [x] Digit as Word
 - [x] Int, Double and String
-----
 ## Loops
 ----
 ## TODO
