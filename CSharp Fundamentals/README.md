@@ -100,5 +100,3 @@
 * Quick sort
 * Prime numbers
 * Remove elements from array
-
-* Finish the list
