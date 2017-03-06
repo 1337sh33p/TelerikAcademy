@@ -2,10 +2,11 @@
 ## Code Formatting
 ----
 * Formatting C#
---* events.cs
---* bunnies.cs
+** events.cs
+** bunnies.cs
 * Formatting JavaScript
---* code.js
+** code.js
+
 ----
 ## Correct naming
 ----
