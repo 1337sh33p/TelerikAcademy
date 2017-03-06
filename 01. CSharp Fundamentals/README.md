@@ -43,7 +43,7 @@
 - [x] Numbers Comparer
 - [x] Quadratic Equation
 - [x] Sum of 5 numbers
-* Numbers from 1 to N
+- [x] Numbers from 1 to N
 - [x] Sum of N numbers
 - [x] Fibonacci Numbers
 - [x] Interval
