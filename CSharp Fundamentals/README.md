@@ -64,29 +64,29 @@
 ----
 ## Loops
 ----
-* Numbers from 1 to N
-* Not Divisuble Numbers
-* MMSA of N Numbers
-* Print a Deck
+- [x] Numbers from 1 to N
+- [x] Not Divisuble Numbers
+- [x] MMSA of N Numbers
+- [x] Print a Deck
 * Calculate
-* Calculate Again
+- [x] Calculate Again
 * Calculate 3
-* Catalan Numbers
+- [x] Catalan Numbers
 * Matrix of Numbers
 * Odd and Even Product
-* Binary to Decimal
-* Decimal to Binary
+- [x] Binary to Decimal
+- [x] Decimal to Binary
 * Decimal to HEX
 * Hex to Decimal
-* Greatest Common Divider
-* Trailing 0 in N
+- [x] Greatest Common Divider
+- [x] Trailing 0 in N
 * Spiral Matrix
 
 ----
 ## Arrays
 ----
-* Allocate array
-* Compare arrays
+- [x] Allocate array
+- [x] Compare arrays
 * Compare char arrays
 * Maximal sequence
 * Maximal increasing sequence
