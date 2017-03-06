@@ -64,5 +64,41 @@
 ----
 ## Loops
 ----
-## TODO
+* Numbers from 1 to N
+* Not Divisuble Numbers
+* MMSA of N Numbers
+* Print a Deck
+* Calculate
+* Calculate Again
+* Calculate 3
+* Catalan Numbers
+* Matrix of Numbers
+* Odd and Even Product
+* Binary to Decimal
+* Decimal to Binary
+* Decimal to HEX
+* Hex to Decimal
+* Greatest Common Divider
+* Trailing 0 in N
+* Spiral Matrix
+
+----
+## Arrays
+----
+* Allocate array
+* Compare arrays
+* Compare char arrays
+* Maximal sequence
+* Maximal increasing sequence
+* Maximal K Sum
+* Selection sort
+* Maximal Sum
+* Frequent number
+* Binary search
+* Index of letters
+* Merge sort
+* Quick sort
+* Prime numbers
+* Remove elements from array
+
 * Finish the list
