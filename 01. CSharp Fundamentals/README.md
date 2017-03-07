@@ -70,14 +70,14 @@
 - [x] Print a Deck
 * Calculate
 - [x] Calculate Again
-* Calculate 3
+- [x] Calculate 3
 - [x] Catalan Numbers
-* Matrix of Numbers
-* Odd and Even Product
+- [x] Matrix of Numbers
+- [x] Odd and Even Product
 - [x] Binary to Decimal
 - [x] Decimal to Binary
-* Decimal to HEX
-* Hex to Decimal
+- [x] Decimal to HEX
+- [x] Hex to Decimal
 - [x] Greatest Common Divider
 - [x] Trailing 0 in N
 * Spiral Matrix
