@@ -88,14 +88,14 @@
 - [x] Allocate array
 - [x] Compare arrays
 * Compare char arrays
-* Maximal sequence
-* Maximal increasing sequence
-* Maximal K Sum
-* Selection sort
+- [x] Maximal sequence
+- [x] Maximal increasing sequence
+- [x] Maximal K Sum
+- [x] Selection sort
 * Maximal Sum
-* Frequent number
+- [x] Frequent number
 * Binary search
-* Index of letters
+- [x] Index of letters
 * Merge sort
 * Quick sort
 * Prime numbers
