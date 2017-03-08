@@ -1,61 +1,61 @@
 # CSharp Advanced
 ## Multidimensional Arrays
 ----
-* Fill the matrix
-* Maximal sum
+- [x] Fill the matrix
+- [x] Maximal sum
 * Sequence in matrix
 * Largest area in matrix
 
 ----
 ## Methods
 ----
-* Say Hello
+- [x] Say Hello
 * Get largest number
-* English digit
-* Appearance count
+- [x] English digit
+- [x] Appearance count
 * Larger than neighbours
 * First larger than neighbours
-* Reverse number
-* Number as array
-* Sortying array
-* N Factorial
-* Adding polynomials
-* Integer calculations
+- [x] Reverse number
+- [x] Number as array
+- [x] Sortying array
+- [x] N Factorial
+- [x] Adding polynomials
+- [x] Integer calculations
 
 ----
 ## Numeral Systems
 ----
-* Decimal to binary
-* Binary to decimal
-* Decimal to hexadecimal
-* Hexadecimal to decimal
-* Hexadecimal to binary
+- [x] Decimal to binary
+- [x] Binary to decimal
+- [x] Decimal to hexadecimal
+- [x] Hexadecimal to decimal
+- [x] Hexadecimal to binary
 * Binary to hexadecimal
 * One system to any other
-* Binary short
+- [x] Binary short
 
 ----
 ## Using Classes and Objects
 ----
-* Leap year
-* Triangle surface by side and altitude
-* Triangle surface by three sides
-* Triangle surface by two sides and an angle
-* Sum integers
+- [x] Leap year
+- [x] Triangle surface by side and altitude
+- [x] Triangle surface by three sides
+- [x] Triangle surface by two sides and an angle
+- [x] Sum integers
 
 ----
 ## Strings and Text Processing
 ----
-* Reverse string
-* Correct brackets
-* Sub-string in text
+- [x] Reverse string
+- [x] Correct brackets
+- [x] Sub-string in text
 * Parse tags
-* String length
+- [x] String length
 * Extract sentences
-* Unicode characters
-* Parse URL
+- [x] Unicode characters
+- [x] Parse URL
 * Replace tags
-* Series of letters
+- [x] Series of letters
 
 ----
 ## Exception Handling
