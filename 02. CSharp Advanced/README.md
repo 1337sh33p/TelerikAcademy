@@ -60,5 +60,5 @@
 ----
 ## Exception Handling
 ----
-* Square root
-* Enter numbers
+- [x] Square root
+- [x] Enter numbers
